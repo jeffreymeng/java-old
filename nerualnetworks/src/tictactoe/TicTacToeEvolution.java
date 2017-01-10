@@ -9,7 +9,7 @@ public class TicTacToeEvolution {
 
 	public static void main(String[] args) {
 		
-		Evolution evolution = new Evolution(9, new int[] { 27 }, 9);
+		Evolution evolution = new Evolution(9, new int[] { 9 }, 9);
 		ArrayList <Player> players = new ArrayList <Player> ();
 		
 		
